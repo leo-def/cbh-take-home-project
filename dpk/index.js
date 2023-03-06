@@ -1,1 +1,1 @@
-exports = require('./dpk');
+module.exports = require('./dpk');

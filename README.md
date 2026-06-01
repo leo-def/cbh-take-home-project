@@ -3,6 +3,24 @@ This project contains two challenges - a "Ticket Breakdown" challenge and a "Ref
 
 ## [Ticket Breakdown](Ticket_Breakdown.md)
 
+
+---
+
+## 📚 Documentation & Specifications
+
+This project follows **Specification-Driven Development**. Start here:
+
+- **[SPEC.md](SPEC.md)** - Technical specification and architecture
+- **[.instructions.md](.instructions.md)** - Development guidelines and patterns
+- **[.agent.md](.agent.md)** - AI agent configuration (Claude, Cursor, etc.)
+
+**Quick Links**:
+- Architecture: [See SPEC.md](SPEC.md#3-architecture) or [See SPEC.md](SPEC.md#architecture)
+- Development Workflow: [See .instructions.md](.instructions.md)
+- AI Usage: [See .agent.md](.agent.md)
+
+---
+
 ## [Refactoring](Refactoring.md)
 
 If you are a JS novice, here's how to get started:
